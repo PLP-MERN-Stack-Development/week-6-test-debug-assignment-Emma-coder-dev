@@ -1,4 +1,3 @@
-```markdown
 # 🐞 MERN Bug Tracker
 
 A full-stack Bug Tracker built using the MERN stack (MongoDB, Express, React, Node.js) that allows users to:
@@ -160,5 +159,3 @@ _Note: You can skip tests during development. The app works perfectly without th
 
 This project is open-source and free to use.
 
----
-```
